@@ -1,62 +1,54 @@
 [
   {
-    "title": "iid",
-    "image": "https://api.androidhive.info/json/movies/starwars.jpg",
-    "PM2.5": "160"
+    "City": "Delhi",
+    "PM2.5": "160",
+    "PM10":"200",
+    "CO":"200",
+    "SO2":"14",
+    "O3":"19",
+    "NO2":"24",
+    "Dew":"70%",
+    "wind spd":"20.5",
+    "Temp":"32"
+    "Health Effect":"Unhealthy"
   },
   {
-    "title": "Shape Of Water",
-    "image": "https://api.androidhive.info/json/movies/shape_of_water.jpg",
-    "price": "₹ 130"
+    "City": "Noida",
+    "PM2.5": "160",
+    "PM10":"200",
+    "CO":"200",
+    "SO2":"14",
+    "O3":"19",
+    "NO2":"24",
+    "Dew":"70%",
+    "wind spd":"20.5",
+    "Temp":"32"
+    "Health Effect":"Unhealthy"
   },
   {
-    "title": "Baahubali: The Conclusion",
-    "image": "https://api.androidhive.info/json/movies/baahubali2.jpg",
-    "price": "₹ 210"
+    "City": "Chandigarh",
+    "PM2.5": "160",
+    "PM10":"200",
+    "CO":"200",
+    "SO2":"14",
+    "O3":"19",
+    "NO2":"24",
+    "Dew":"70%",
+    "wind spd":"20.5",
+    "Temp":"32"
+    "Health Effect":"Unhealthy"
   },
   {
-    "title": "Thor: The Ragnarok",
-    "image": "https://api.androidhive.info/json/movies/thor_ragnarok.jpg",
-    "price": "₹ 170"
-  },
-  {
-    "title": "Justice League",
-    "image": "https://api.androidhive.info/json/movies/justice_league.jpg",
-    "price": "₹ 120"
-  },
-  {
-    "title": "Coco",
-    "image": "https://api.androidhive.info/json/movies/coco.jpg",
-    "price": "₹ 110"
-  },
-  {
-    "title": "Jumanji: Welcome To The Jungle",
-    "image": "https://api.androidhive.info/json/movies/jumanji.jpg",
-    "price": "₹ 120"
-  },
-  {
-    "title": "Murder On The Orient Express",
-    "image": "https://api.androidhive.info/json/movies/murder_on_express.jpg",
-    "price": "₹ 160"
-  },
-  {
-    "title": "Spider-Man: Homecoming",
-    "image": "https://api.androidhive.info/json/movies/spiderman_homecoming.jpg",
-    "price": "₹ 190"
-  },
-  {
-    "title": "Ferdinand",
-    "image": "https://api.androidhive.info/json/movies/ferdinand.jpg",
-    "price": "₹ 100"
-  },
-  {
-    "title": "The Disaster Artist",
-    "image": "https://api.androidhive.info/json/movies/disaster_artist.jpg",
-    "price": "₹ 90"
-  },
-  {
-    "title": "Lady Bird",
-    "image": "https://api.androidhive.info/json/movies/lady_bird.jpg",
-    "price": "₹ 80"
+    "City": "Leh",
+    "PM2.5": "160",
+    "PM10":"200",
+    "CO":"200",
+    "SO2":"14",
+    "O3":"19",
+    "NO2":"24",
+    "Dew":"70%",
+    "wind spd":"20.5",
+    "Temp":"32"
+    "Health Effect":"Unhealthy"
   }
 ]
