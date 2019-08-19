@@ -9,7 +9,7 @@
     "NO2":"24",
     "Dew":"70%",
     "wind spd":"20.5",
-    "Temp":"32"
+    "Temp":"32",
     "Health Effect":"Unhealthy"
   },
   {
@@ -22,7 +22,7 @@
     "NO2":"24",
     "Dew":"70%",
     "wind spd":"20.5",
-    "Temp":"32"
+    "Temp":"32",
     "Health Effect":"Unhealthy"
   },
   {
@@ -35,7 +35,7 @@
     "NO2":"24",
     "Dew":"70%",
     "wind spd":"20.5",
-    "Temp":"32"
+    "Temp":"32",
     "Health Effect":"Unhealthy"
   },
   {
@@ -48,7 +48,7 @@
     "NO2":"24",
     "Dew":"70%",
     "wind spd":"20.5",
-    "Temp":"32"
+    "Temp":"32",
     "Health Effect":"Unhealthy"
   }
 ]
