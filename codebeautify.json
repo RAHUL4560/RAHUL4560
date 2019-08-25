@@ -1,62 +1,55 @@
-[
-  {
-    "title": "iid",
-    "image": "https://api.androidhive.info/json/movies/starwars.jpg",
-    "PM2.5": "160"
-  },
-  {
-    "title": "Shape Of Water",
-    "image": "https://api.androidhive.info/json/movies/shape_of_water.jpg",
-    "price": "₹ 130"
-  },
-  {
-    "title": "Baahubali: The Conclusion",
-    "image": "https://api.androidhive.info/json/movies/baahubali2.jpg",
-    "price": "₹ 210"
-  },
-  {
-    "title": "Thor: The Ragnarok",
-    "image": "https://api.androidhive.info/json/movies/thor_ragnarok.jpg",
-    "price": "₹ 170"
-  },
-  {
-    "title": "Justice League",
-    "image": "https://api.androidhive.info/json/movies/justice_league.jpg",
-    "price": "₹ 120"
-  },
-  {
-    "title": "Coco",
-    "image": "https://api.androidhive.info/json/movies/coco.jpg",
-    "price": "₹ 110"
-  },
-  {
-    "title": "Jumanji: Welcome To The Jungle",
-    "image": "https://api.androidhive.info/json/movies/jumanji.jpg",
-    "price": "₹ 120"
-  },
-  {
-    "title": "Murder On The Orient Express",
-    "image": "https://api.androidhive.info/json/movies/murder_on_express.jpg",
-    "price": "₹ 160"
-  },
-  {
-    "title": "Spider-Man: Homecoming",
-    "image": "https://api.androidhive.info/json/movies/spiderman_homecoming.jpg",
-    "price": "₹ 190"
-  },
-  {
-    "title": "Ferdinand",
-    "image": "https://api.androidhive.info/json/movies/ferdinand.jpg",
-    "price": "₹ 100"
-  },
-  {
-    "title": "The Disaster Artist",
-    "image": "https://api.androidhive.info/json/movies/disaster_artist.jpg",
-    "price": "₹ 90"
-  },
-  {
-    "title": "Lady Bird",
-    "image": "https://api.androidhive.info/json/movies/lady_bird.jpg",
-    "price": "₹ 80"
-  }
-]
+
+ {
+    "status": "true",
+    "message": "Data fetched successfully!",
+    "data": [
+        {
+            "id": "1",
+            "name": "Roger Federer",
+            "country": "Switzerland",
+            "city": "Basel"
+        },
+        {
+            "id": "2",
+            "name": "Rafael Nadal",
+            "country": "Spain",
+            "city": "Madrid"
+        },
+        {
+            "id": "3",
+            "name": "Novak Djokovic",
+            "country": "Serbia",
+            "city": "Monaco"
+        },
+        {
+            "id": "4",
+            "name": "Andy Murray",
+            "country": "United Kingdom",
+            "city": "London"
+        },
+        {
+            "id": "5",
+            "name": "Maria Sharapova",
+            "country": "Russia",
+            "city": "Moscow"
+        },
+        {
+            "id": "6",
+            "name": "Caroline Wozniacki",
+            "country": "Denmark",
+            "city": "Odense"
+        },
+        {
+            "id": "7",
+            "name": "Eugenie Bouchard",
+            "country": "Canada",
+            "city": " Montreal"
+        },
+        {
+            "id": "8",
+            "name": "Ana Ivanovic",
+            "country": "Serbia",
+            "city": "Belgrade"
+        }
+    ]
+}
